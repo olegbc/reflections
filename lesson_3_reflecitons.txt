@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your word local?    
+When you you work from few places(machines) or work in team on this project.  
