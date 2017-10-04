@@ -1,0 +1,5 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Clones - when I have in mind to use origin as place I got clone from.
+Fork - when I don`t want to push to place I forked, but want to have opportunity to push to my repository.
+Branches - its another story, I`ll use it to split development of destinct features on project.
