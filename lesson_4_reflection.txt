@@ -9,3 +9,7 @@ It gets opportunity to:
  - diff with local branches and get to know state with remote wherther local branche ahead, behind, up-to-date or out-of-sync;
  - fetch remote state of branch to local tracking branch and then merge it with local branches
  - to track state when saccessfuly pushed
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ - folder plus email or chats
+ - git deffenetly)
