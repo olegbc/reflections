@@ -13,3 +13,8 @@ It gets opportunity to:
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  - folder plus email or chats
  - git deffenetly)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ - in case of new feature or bug fix, something experimental.
+ - in this case pros are: easy and less error prone pull requesting, and cons are: more complicated process of add changes to master(main debelopment branch)
+ - in the direct way, its easy to add changes, but errors can become huge problem in team development process
